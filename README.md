@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 	
 	
 	
-
+<p align="center">
+	Not open for collaboration
+</p>
 
      
 
