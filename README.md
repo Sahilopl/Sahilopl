@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <h1 align=center>
   
-![](https://github-readme-stats.vercel.app/api?username=Sahilopl&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilopl&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=Sahilopl&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Sahilopl&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahilopl&theme=transparent&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=SahiloplL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </h1>
 	
