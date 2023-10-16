@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 
 # Holopin Badges
-[![Holopin](https://holopin.me/sahilopl](https://holopin.io/@sahilopl)
+[![Holopin](https://holopin.me/sahilopl)](https://holopin.io/@sahilopl)
 #
 
 	
