@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilopl&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
 
-</h1>
+
 # Holopin Badges
-[![Holopin](https://holopin.me/adityavofficial)](https://holopin.io/@adityavofficial)
+[![Holopin](https://holopin.me/@sahilopl](https://holopin.io/@sahilopl)
 #
 
 	
