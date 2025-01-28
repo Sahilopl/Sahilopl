@@ -70,6 +70,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=SahiloplL&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilopl&langs_count=8&theme=transparent" alt="LANG USED" />
 </h1>
+# 👨🏻‍💻 LeetCode Stats:
+<div align="center" >
+  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/neele?theme=dark&font=Nunito&ext=heatmap" />
 
 
 # Holopin Badges
